@@ -7,12 +7,10 @@ Data Visualization Developer
 I have been working with open source since 2018. So after changing careers, I started developing projects with data visualization finding my passion along the way.
 
 * 🌍  I'm based in Lima, Perú
+* 🖥️  See my portfolio at [carlos leon](http://www.carlosleon.dev)
 * ✉️  You can contact me at [calobeto.leon@gmail.com](mailto:calobeto.leon@gmail.com)
 * 🧠  I'm learning svelte
 * 🤝  I'm open to collaborating on Data visualization politic projects
-
-<a href="https://www.github.com/ccalobeto" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ccalobeto?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -33,9 +31,3 @@ src="https://img.shields.io/github/followers/ccalobeto?logo=github&style=for-the
 <a href="http://www.github.com/ccalobeto"><img src="https://github-readme-stats.vercel.app/api?username=ccalobeto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccalobeto's GitHub stats" /></a>
 
 <a href="http://www.github.com/ccalobeto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccalobeto&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ccalobeto"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ccalobeto&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
