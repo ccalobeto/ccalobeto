@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Visualization Developer
 ----------------------------
 
-I have been working with open source since 2018. So after changing careers, I started developing projects with data visualization finding my passion along the way.
+After 20 years of experience in private companies performing roles in commercial and human resources positions, I switched to what I like the most, which is programming. I remember the first time I touched a few lines of Python back in 2015, it was a point of no return so I started developing open source products for the telecommunications company where I worked.  In 2018 I took the MIT program in statistics and data science, then working in companies with consultant and specialist roles since 2020. In 2023 I decided to specialize in data visualization roles and found my passion along the way. During this time I had to adapt to new technologies that evolve rapidly and to the knowledge that I internalized to solve problems with spatial data.
 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my portfolio at [carlos leon](http://www.carlosleon.dev)
