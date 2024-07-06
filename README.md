@@ -9,7 +9,7 @@ After 20 years of experience in private companies performing roles in commercial
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my portfolio at [carlos leon](http://www.carlosleon.dev)
 * ✉️  You can contact me at [calobeto.leon@gmail.com](mailto:calobeto.leon@gmail.com)
-* 🧠  I'm learning svelte
+* 🧠  Currently working on in social-economical projects and learning svelte!
 
 ### Skills
 
