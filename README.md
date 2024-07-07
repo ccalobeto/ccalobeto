@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Visualization Developer
 ----------------------------
 
-After 20 years of experience in private companies performing roles in commercial and human resources positions, I switched to what I like the most, which is programming. I remember the first time I touched a few lines of Python back in 2015, it was a point of no return so I started developing open source products for the telecommunications company where I worked.  In 2018 I took the MIT program in statistics and data science, then working in companies with consultant and specialist roles since 2020. In 2023 I decided to specialize in data visualization roles and found my passion along the way. During this time I had to adapt to new technologies that evolve rapidly and to the knowledge that I internalized to solve problems with spatial data.
+After 17 years of experience in private companies performing Commercial and Human Resources roles, I decided to do what I like most, which is programming. I remember the first time I made a few lines of Python back in 2015, it was a point of no return so I started developing open source products for the telecommunications company where I worked. In 2018 I took the MIT program in Statistics and Data Science which then allowed me to work in Private Companies in roles as a Consultant and Specialist since 2020. It was in this last job where I found my passion on the path that is Data Visualization. So in 2023 I made the decision to specialize in acquiring the necessary knowledge to develop applications that solve problems in the industry through data visualization using spatial data.
 
 * 🌍  I'm based in Lima, Perú
-* 🖥️  See my portfolio at [carlos leon](http://www.carlosleon.dev)
+* 🖥️  See my blog at [carlos leon](http://www.carlosleon.dev)
 * ✉️  You can contact me at [calobeto.leon@gmail.com](mailto:calobeto.leon@gmail.com)
-* 🧠  Currently working on in social-economical projects and learning svelte!
+* 🧠  Currently working on in social-economical personal projects and learning svelte!
 
 ### Skills
 
