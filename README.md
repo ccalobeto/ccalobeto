@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Visualization Developer
 ----------------------------
 
-After 17 years of experience in private companies performing Commercial and Human Resources roles, I decided to do what I am more passionate about, which is software development. In 2015 it was a point of no return for me and I started developing open source products for the telecommunications company where I worked. In 2018 I took the MIT program in Statistics and Data Science which then allowed me to work in Private Companies in roles as a Consultant and Data Scientist since 2020. It was in my last job I found my passion on the path which is Data Visualization. In 2023, I began to specialize in acquiring the knowledge necessary to build tools and web applications that better explain complex concepts through data visualization.
+After 17 years of experience in private companies performing Commercial and Human Resources roles, I decided to do software development. In 2015 it was a point of no return for me and I started developing open source products for the telecommunications company where I worked. In 2018 I took the MIT program in Statistics and Data Science which then allowed me to work in Private Companies in roles as a Consultant and Data Scientist since 2020. It was in my last job I found my passion on the path which is Data Visualization. In 2023, I began to specialize in acquiring the knowledge necessary to build tools and web applications that better explain complex concepts through data visualization.
 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my blog at [carlos leon](http://www.carlosleon.dev)
