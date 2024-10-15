@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Visualization Developer
 ----------------------------
 
-After 17 years of experience in private companies performing Commercial and Human Resources roles, I decided to do what I like most, which is programming. I remember the first time I made a few lines of Python back in 2015, it was a point of no return so I started developing open source products for the telecommunications company where I worked. In 2018 I took the MIT program in Statistics and Data Science which then allowed me to work in Private Companies in roles as a Consultant and Specialist since 2020. It was in this last job where I found my passion on the path that is Data Visualization. So in 2023 I made the decision to specialize in acquiring the knowledge necessary to develop open source applications by documenting my progress and building tools that solve industry problems through data visualization.
+After 17 years of experience in private companies performing Commercial and Human Resources roles, I decided to do what I like most, which is software development. In 2015 it was a point of no return for me and I started developing open source products for the telecommunications company where I worked. In 2018 I took the MIT program in Statistics and Data Science which then allowed me to work in Private Companies in roles as a Consultant and Specialist Data Scientist since 2020. It was in my last job, where I found my passion on the path which is Data Visualization. So in 2023, I made the decision to specialize in acquiring the knowledge necessary to develop web software applications through data visualization with geospatial data.
 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my blog at [carlos leon](http://www.carlosleon.dev)
 * ✉️  You can contact me at [calobeto.leon@gmail.com](mailto:calobeto.leon@gmail.com)
-* 🧠  Currently working on in social-economical personal projects and learning svelte and svelte kit!
+* 🧠  Currently working on social-economical projects and learning svelte in the process!
 
 ### Skills
 
