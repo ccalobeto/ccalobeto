@@ -8,7 +8,7 @@ After 17 years of experience in private companies performing Commercial and Huma
 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my blog at [carlos leon](http://www.carlosleon.dev)
-* ✉️  You can contact me at [calobeto.leon@gmail.com](mailto:leon.calobeto@gmail.com)
+* ✉️  You can contact me at [leon.calobeto@gmail.com](mailto:leon.calobeto@gmail.com)
 * 🧠  Currently working on social-economical projects and learning svelte in the process!
 
 ### Skills
