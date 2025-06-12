@@ -1,15 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos León
 ===================================================================================================================================
 
-Data Visualization Developer
-----------------------------
+Data Analyst
+-------------
 
-After 17 years of experience in private companies performing Commercial and Human Resources roles, I developed software. In 2015 it was a point of no return for me and I started developing open source products for the telecommunications company where I worked. In 2018 I took the MIT program in Statistics and Data Science which allowed me to work in Private Companies in roles as a Consultant and Data Scientist since 2020. In my last job, I found my passion on the path of Data Visualization. In 2023, I began to specialize in acquiring the knowledge necessary to build tools and web applications that better explain complex concepts through data visualization.
+I'm an Electronic Engineer with a background in the telecommunications and nutrition industries. In 2015, I reached a turning point in my career when I began developing open-source tools to solve real-world problems at the telco company where I worked. That experience sparked a deep interest in software and data.
+
+In 2018, I completed the MITx MicroMasters program in Statistics and Data Science, which opened the door to consulting and data science roles in the private sector starting in 2020. During that time, I gained hands-on experience delivering insights and building data products across industries.
+
+In my most recent role, I discovered a passion for data visualization — transforming raw data into intuitive and impactful visual narratives. Since 2023, I’ve been focusing on front-end development and interactive data storytelling. I'm currently building web-based tools that make complex data and ideas more accessible through visualization.
 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my blog at [carlos leon](http://www.carlosleon.dev)
 * ✉️  You can contact me at [leon.calobeto@gmail.com](mailto:leon.calobeto@gmail.com)
-* 🧠  Currently working on social-economical projects and learning svelte in the process!
+* 🧠  Currently working on social-economical projects and learning Svelte in the process!
 
 ### Skills
 
