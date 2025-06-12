@@ -1,16 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos León
 ===================================================================================================================================
-
-I'm an Electronic Engineer with a background in the telecommunications and nutrition industries. In 2015, I reached a turning point in my career when I began developing open-source tools to solve real-world problems at the telco company where I worked. That experience sparked a deep interest in software and data.
-
-In 2018, I completed the MITx MicroMasters program in Statistics and Data Science, which opened the door to consulting and data science roles in the private sector starting in 2020. During that time, I gained hands-on experience delivering insights and building data products across industries.
-
-In my most recent role, I discovered a passion for data visualization — transforming raw data into intuitive and impactful visual narratives. Since 2023, I’ve been focusing on front-end development and interactive data storytelling. I'm currently building web-based tools that make complex data and ideas more accessible through visualization.
-
 * 🌍  I'm based in Lima, Perú
-* 🖥️  See my blog at [carlos leon](http://www.carlosleon.dev)
-* ✉️  You can contact me at [leon.calobeto@gmail.com](mailto:leon.calobeto@gmail.com)
-* 🧠  Currently working on social-economical projects and learning Svelte in the process!
+* 🖥️  See my Portfolio at [carlos leon](http://www.carlosleon.dev)
+* ✉️  You can contact me at [leon.calobeto.leon@gmail.com](mailto:leon.calobeto@gmail.com)
+* 🚀  Working on a social media project
+* 🧠  I learning Svelte.
+* 🤝 I'm open to collaborating on exciting projects as a data visualization developer.
 
 ### Skills
 
