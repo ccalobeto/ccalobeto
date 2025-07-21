@@ -3,9 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my Portfolio at [carlos leon](http://www.carlosleon.dev)
 * ✉️  You can contact me at [leon.calobeto@gmail.com](mailto:leon.calobeto@gmail.com)
-* 🚀  Working on a social media project
-* 🧠  I learning Svelte.
-* 🤝 I'm open to collaborating on exciting projects as a data visualization developer.
+* 🧠  I enrolled at data-engineering-zoomcamp to develop new skills.
+* 🤝  I'm open to collaborating on exciting projects as a data engineer.
 
 ### Skills
 
